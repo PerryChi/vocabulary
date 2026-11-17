@@ -150,7 +150,7 @@ No.   	Word                	POS     	IPA                     	Common Chinese Def
 122   	concrete            	n.      	/'kɒnkri:t/             	凝结物, 混凝土
 123   	confess             	v.      	/kәn'fes/               	承认, 坦白, 忏悔, 供认
 124   	confusion           	n.      	/kәn'fju:ʒәn/           	混乱, 混淆, 无秩序
-125   	consequently        	adv.    	/'kɒnsikwәntli/         	所以
+125   	consequently        	adv.    	/'kɒnsikwәntli/         	所以, 因此
 126   	conservation        	n.      	/ˌkɒnsә'veiʃәn/         	保护, 保存
 127   	considerable        	adj.    	/kәn'sidәrәbl/          	相当的, 可观的, 重要的
 128   	considerably        	adv.    	/kәn'sidәrәbli/         	非常地, 很, 颇
