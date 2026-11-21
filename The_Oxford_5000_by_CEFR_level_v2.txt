@@ -303,7 +303,7 @@ No.   	Word                	POS     	IPA                     	Common Chinese Def
 275   	format              	n.      	/'fɒ:mæt/               	开本, 版式, 形式, 格式
 276   	formation           	n.      	/fɒ:'meiʃәn/            	形成, 构造, 编队
 277   	formerly            	adv.    	/'fɒ:mәli/              	从前, 以前
-278   	fortunate           	adj.    	/'fɒ:tʃәnit/            	幸运的, 幸福的
+278   	fortunate           	adj.    	/'fɔːrtʃənət/            	幸运的, 幸福的
 279   	forum               	n.      	/'fɒ:rәm/               	论坛, 公开讨论的广场, 法庭, 讨论会
 280   	fossil              	n.      	/'fɒsәl/                	化石, 古物
 281   	foundation          	n.      	/faun'deiʃәn/           	基础, 根据, 建立
@@ -343,7 +343,7 @@ No.   	Word                	POS     	IPA                     	Common Chinese Def
 315   	guideline           	n.      	/'gaidlain/             	指导路线, 方针, 指标
 316   	habitat             	n.      	/'hæbitæt/              	栖息地, 居留地, 自生地, 聚集处
 317   	harbour             	n.      	/'hɑ:bә/                	港, 避难所
-318   	headquarters        	n.      	/hed'kwɒ:tәz/           	总部, 司令部, 总部人员
+318   	headquarters        	n.      	/hed'kwɒ:tәz/           	(机构, 企业等的)总部, 总店; 司令部, 指挥部
 319   	heal                	v.      	/hi:l/                  	痊愈, 使复原, 使和解, 治愈
 320   	healthcare          	n.      	/'helθkεә/              	医疗保健; 卫生保健; 健康护理, 健康服务
 321   	helmet              	n.      	/'helmit/               	钢盔, 盔, 防护帽
@@ -357,13 +357,13 @@ No.   	Word                	POS     	IPA                     	Common Chinese Def
 329   	homeless            	adj.    	/'hәumlis/              	无家的, 无养主的
 330   	honesty             	n.      	/'ɒnisti/               	诚实, 公正, 正直
 331   	hook                	n.      	/huk/                   	钩, 钩状, 镰刀, 陷阱
-332   	hopefully           	adv.    	/'hәjpfjli/             	有希望地, 如果希望能实现的话
+332   	hopefully           	adv.    	/'həʊpfəli/             	有希望地, 如果希望能实现的话
 333   	hunger              	n.      	/'hʌŋgә/                	饥饿, 渴望, 饥荒
-334   	hypothesis          	n.      	/hai'pɒθәsis/           	假设
+334   	hypothesis          	n.      	/hai'pɒθәsis/           	假说, 假设, 前提
 335   	icon                	n.      	/'aikɒn/                	画像, 肖像, 偶像, 图标, 像标
 336   	ID                  	n.      	/id/                    	遗传素质, 本能冲动
 337   	identical           	adj.    	/ai'dentikәl/           	同一的, 恒等的, 完全相同的
-338   	illusion            	n.      	/i'lju:ʒәn/             	幻影, 错觉, 幻想
+338   	illusion            	n.      	/ɪ'luːʒn/                	错觉, 幻想, 错误观念; 假象
 339   	immigration         	n.      	/ˌimi'greiʃәn/          	移民, 移居
 340   	immune              	adj.    	/i'mju:n/               	免疫的, 免除的, 不受影响的
 341   	implement           	v.      	/'implimәnt/            	实现, 使生效, 执行
@@ -2041,7 +2041,7 @@ No.   	Word                	POS     	IPA                     	Common Chinese Def
 2013  	thereafter          	adv.    	/ˌðєәr'æftә/            	其后, 从那时以后
 2014  	thereby             	adv.    	/'ðєәbai/               	因此
 2015  	thoughtful          	adj.    	/'θɒ:tful/              	深思的, 体贴的
-2016  	thought-provoking   	adj.    	/'θɔ:tprә,vәjkiŋ/       	发人深省的
+2016  	thought-provoking   	adj.    	/'θɔ:tprə'vəʊkɪŋ/       	发人深省的
 2017  	thread              	n.      	/θred/                  	线, 丝, 纤维, 线索
 2018  	threshold           	n.      	/'θreʃәuld/             	门槛, 入口, 开端, 阈
 2019  	thrilled            	adj.    	/θrɪld/                 	非常兴奋的; 极为激动的
