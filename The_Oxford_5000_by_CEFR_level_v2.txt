@@ -383,8 +383,8 @@ No.   	Word                	POS     	IPA                     	Common Chinese Def
 355   	inhabitant          	n.      	/in'hæbitәnt/           	居民, 居住者
 356   	inherit             	v.      	/in'herit/              	继承, 遗传, 接受遗产
 357   	ink                 	n.      	/iŋk/                   	墨水, 墨汁
-358   	innovation          	n.      	/ˌinәu'veiʃәn/          	改革, 创新
-359   	innovative          	adj.    	/'inәjveitiv/           	革新的, 创新的, 富有革新精神的
+358   	innovation          	n.      	/ˌɪnə'veɪʃn/              	改革, 创新
+359   	innovative          	adj.    	/'ɪnəveɪtɪv/               	革新的, 创新的, 富有革新精神的
 360   	input               	n.      	/'input/                	输入, 输入电路
 361   	insert              	v.      	/in'sә:t/               	插入, 把(人造卫星)射入(轨道), 添写, 附着
 362   	inspector           	n.      	/in'spektә/             	检查员, 巡视员
